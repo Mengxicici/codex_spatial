@@ -1,0 +1,14 @@
+cell_ID: clusters
+cell_dist_to1: DistTo_Treg
+cell_dist_to2: DistTo_CD8 T cells
+cell_name: Phenotype
+celltype_dist_to: DistTo_BV
+map_path: /archive/bioinformatics/Jamieson_lab/shared/CODEX/my/codex_datasets/anotated_rois/P7T1+dist.csv
+outpath: ./interlock_map_streamlit_test.html
+region_dist_to: DistTo_Epithelial
+regions_maker: Kmeans_5_clusters
+selected_filename: selected_1.csv
+xend: 21000
+xstart: 0
+yend: 11782
+ystart: 0
